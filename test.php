@@ -1,2 +1,3 @@
 <?php
-echo "this is a test";
+$a = 0;
+echo isset($a);
